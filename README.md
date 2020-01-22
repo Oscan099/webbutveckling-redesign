@@ -28,7 +28,6 @@ Du ska producera
 * Mockups
 * Skriftlig dokumentation av detta
 
-
 ## Praktiskt arbete
 
 När ditt förberedande arbete är klart så ska du arbeta med att realisera din design.
@@ -75,3 +74,7 @@ Avsluta ditt arbete med att samla ihop din dokumentation och reflektera över ar
 ### Redovisning
 
 Du kommer att få presentera och redovisa ditt arbetet för klassen. Vi kommer då arbeta och prata om eventuella förbättringar och lärdomar inför nästa projekt.
+
+## Bedömning
+
+![alt text](https://raw.githubusercontent.com/jensnti/wu2-redesign/master/assets/matris.png "Bedömningsmatris")
