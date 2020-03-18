@@ -1,5 +1,7 @@
 # Redesign av webbplats
 
+Länk till webbplatsen https://jensnti.github.io/wu2-redesign/
+
 Grundrepo för uppgiften redesign av webbplats. Ett sammarbete med kursen Digitalt skapande för arbete med layout, design och logotyper med utgångspunkt i mobile first.
 
 Uppgiften har ett fokus på frontend tekniker, HTML, CSS och vid behov javascript. Vi baserar arbetet på den design ni har skapat i digitalt skapande och färdigställer webbplatsen. Arbeta utifrån dina skisser och ha praxis kring användbarhet och funktionell design i åtanke.
