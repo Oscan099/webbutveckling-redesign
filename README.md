@@ -1,63 +1,59 @@
 # Redesign av webbplats
 
-Länk till webbplatsen https://jensnti.github.io/wu2-redesign/
-
 Grundrepo för uppgiften redesign av webbplats. Ett sammarbete med kursen Digitalt skapande för arbete med layout, design och logotyper med utgångspunkt i mobile first.
 
 Uppgiften har ett fokus på frontend tekniker, HTML, CSS och vid behov javascript. Vi baserar arbetet på den design ni har skapat i digitalt skapande och färdigställer webbplatsen. Arbeta utifrån dina skisser och ha praxis kring användbarhet och funktionell design i åtanke.
 
-Förutom din webbplats så är dokumentationen viktig. Ett tips är även att föra en loggbok i din README.md. Din dokumentationen ska dels lämnas in som ett skriftligt dokument, men det ska även bestå av commits du gör under lektionstid samt ett projekt-bräde.
+Förutom din webbplats så är dokumentationen viktig. Ett tips är att föra en arbetslogg, skapa en md fil eller liknande och skriv i. Din dokumentationen ska dels lämnas in som ett skriftligt dokument, men det ska även bestå av commits du gör under lektionstid.
+Vi ska även prova på att arbeta med ett projekt-bräde för din planering, det finns här på GitHub.
 För att skapa detta så
 
-* Klicka på Projects flicken här på github
+* Klicka på Projects fliken
 * Klicka på New project
-* Döp projektet till ditt namn och välj Basic Kanban som template
+* Döp projektet till ditt namn/projekt och välj Basic Kanban som template
 * Läs igenom och undersök systemet så att du föstår det(se korten som skapats åt dig)
 
-När du har skapat ditt bräde så ska du planera ditt arbete, skapa kort i din To do över allt som behöver göras(Kommer genomgång av detta). Försök att bryta ned uppgifterna i små bitar. När arbetet med detta är gjort så flyttar du den första delen till In progress och kör igång. När du är klar med kortet så flyttar du det till Done och plockar ett nytt från To do.
+När du har skapat ditt bräde så ska du använda det för att planera ditt arbete. För att göra det så skapar du kort i **To do** spalten över allt som behöver göras. Försök att bryta ned uppgifterna i små bitar. När arbetet (planeringen) med detta är gjort så flyttar du den första delen till In progress och börjar arbeta på det kortet. När du är klar 
+med kortet så flyttar du det till Done och plockar ett nytt från To do.
+Det går även att skapa Issues (för det som behöver göras) och sedan förvandla dem till kort. 
 
 Din webbplats ska även testas och detta ska dokumenteras, både med validator och verktyg för användbarhet.
 
 ## Planering
 
-Utgå från ditt skiss och idéarbete. Du ska bygga vidare på detta för att skapa din färdiga webbplats. Försök att skriftligt planera och dokumentera de delar du arbetar utifrån. Skapa dokument där typsnitt, färger och annat finns tillgängligt.
+Utgå från ditt skiss (Figma) och idéarbete. Du ska bygga på detta för att skapa din färdiga webbplats.
+Om du inte har det skapa dokument där typsnitt, färger och annat finns tillgängligt.
 Om du behöver ändra på dina skisser eller din planering så kan du självklart göra det, men skiss-materialet är din grund och det ska användas. För de högre betygen är det då även viktigt att du dokumenterar detta och motiverar dina val.
-
-Du ska producera
-
-* Skisser
-* Logotyp
-* Mockups
-* Skriftlig dokumentation av detta
-
 ## Praktiskt arbete
 
 När ditt förberedande arbete är klart så ska du arbeta med att realisera din design.
 
 Utgå och arbeta med
 
-* HTML5, validera
-    * Korrekta semantiska taggar
-* CSS, validera
-    * Ev. ramverk
-* Anpassning efter skärmstorlek/device
+* HTML
+    * Validera
+    * Korrekt semantisk struktur
+* CSS
+    * Validera
+* Responsiv
+    * Anpassning efter skärmstorlek/device
     * Testa
-* Media, anpassa för webben
+* Media
+    * Anpassa för webben
     * Storlek, överföringshastighet
     * Bilder ska optimeras
-* Användbarhet och webbriktlinjer, god praxis
-    * Du ska dokumentera arbetet med webbriktlinjer
-* Javascript, för att utöka funktionalitet vid behov
-
-## Tips
-
-Att ha alla taggar och css egenskaper i huvet är i stort sett omöjligt, det viktiga är att ha en ide om hur din sida ska se ut, utgå från den. Till din hjälp har du dels övningsmaterialet vi kört med, https://github.com/jensnti/wu-januari men kolla även in annat, På https://www.w3schools.com/howto/default.asp, här finns ett stort antal exempel på hur du skapar element som är en del av en större design. Denna sida fyller en liknande funktion som https://getbootstrap.com/docs/4.2/examples/ , använd dem. Det är inte lätt att arbeta med dessa enskilda element, men du hittar där stilar för grunden. Ditt arbete blir att veta vad du vill ha och sedan att pussla ihop det. Detta betyder inte att du inte kommer att skriva egna taggar och css regler, bara att du har en bas att utgå ifrån.
-Redovisa även gärna vad du har använt i din loggbok och berätta om vad du har ändrat.
-
+* God praxis
+    * Användbarhet och webbriktlinjer
+        * Testa
+        * a11y
+        * WAVE
+* Hosting
+    * GitHib pages
 ## Slutprodukt
 
-I slutändan ska du ha producerat en omdesignad webbplats med tillhörande dokumentation. Det ska vara tydligt och gå att följa vad du planerat, hur du har arbetat utifrån planeringen och vad resultatet är.
-Avsluta ditt arbete med att samla ihop din dokumentation och reflektera över arbetet. Vad gick bra, vad har du lärt dig, vad kan du arbeta vidare och vad kan förbättras.
+I slutändan ska du ha producerat en omdesignad webbplats med tillhörande dokumentation (post mortem). Webbplatsen ska åtminstone ha en förstasida, fungera och följa god praxis.
+Du dokumenterar det och dina tester med detta arbete. Dokumentationen och arbetet ska beskrivas med grund i din planering.
+Ditt arbetsflöde ska gå att följa i både commits och projekt-brädet.
 
 ### Inlämning
 
@@ -65,13 +61,15 @@ Avsluta ditt arbete med att samla ihop din dokumentation och reflektera över ar
     * Projekt bräde
     * Commits
     * Post mortem
+    * Tester
 * Git-repository
-    * Utifrån git-classroom
-* Webbplatsen hostad på git pages
-    * Minst 3 färdiga sidor
-    * Minst 2 breakpoints för olika skärmar
-    * Bilder
+    * Med pages hosting
+* Webbplatsen
+    * Minst 1 färdig sida
+    * Responsiv
+    * En eller flera bilder
     * HTML/CSS som validerar
+    * Tester
 
 ### Redovisning
 
